@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "type_traits": "cpp",
-        "cmath": "cpp",
-        "limits": "cpp",
-        "typeinfo": "c",
-        "stdlib.h": "c"
-    }
-}
